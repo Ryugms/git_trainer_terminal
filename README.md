@@ -83,7 +83,7 @@ Pull requests são bem-vindos! Sinta-se à vontade para abrir issues com sugest�
 
 ---
 
-## 🧑‍💻 Autor
+#### 🧑‍💻 Autor
 
 Desenvolvido por **Giovani Menezes**  
 💻 Entusiasta de automação e open source
